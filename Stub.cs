@@ -6,17 +6,6 @@ using System.Runtime.InteropServices;
 
 namespace RunPE
 {
-
-    /* 
-           │ Author       : NYAN CAT
-           │ Name         : RunPE
-           │ Contact Me   : github.com/NYAN-x-CAT
-           This program is distributed for educational purposes only.
-        Usage:
-        RunPE.Execute(Path.Combine(RuntimeEnvironment.GetRuntimeDirectory(), "RegAsm.exe"), File.ReadAllBytes("Payload Path"));
-    */
-
-
     public static class RunPE
     {
 
